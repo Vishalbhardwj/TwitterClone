@@ -27,10 +27,10 @@ Welcome to the TwitterClone App – your gateway to building a community and sha
 
 ### Getting Started
 
-1. Clone the repository:
-git clone https://github.com/yourusername/TwitterClone.git
-2.Open the project in Android Studio.
-3.Build the project to resolve all dependencies.
+- **1**. Clone the repository:
+- **git clone https://github.com/yourusername/TwitterClone.git**
+- **2**.Open the project in Android Studio.
+- **3**.Build the project to resolve all dependencies.
 
 ### Dependencies
 
